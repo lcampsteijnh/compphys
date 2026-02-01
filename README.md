@@ -7,8 +7,8 @@ Each project is implemented in C++ with supporting Python scripts for analysis a
 
 ## Repository Structure
  
- – Simulation of 2D Ising model  
- – 2D time-dependent Schrödinger equation
+ – `2D_Ising_Model` - Simulation of 2D Ising model  
+ – `2D_TDSE` - 2D time-dependent Schrödinger equation
 
 ---
 
