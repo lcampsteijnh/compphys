@@ -14,7 +14,7 @@ Each project is implemented in C++ with supporting Python scripts for analysis a
 
 ## 2D Ising Model
 
-In **Project 4**, we study the thermodynamical properties of the two-dimensional Ising model on a square lattice using Metropolis Monte Carlo sampling and OpenMP parallelisation. We investigate finite-size effects, equilibration behaviour, energy distributions, and estimate the critical temperature \(T_c\) in the thermodynamic limit.
+We study the thermodynamical properties of the two-dimensional Ising model on a square lattice using Metropolis Monte Carlo sampling and OpenMP parallelisation. We investigate finite-size effects, equilibration behaviour, energy distributions, and estimate the critical temperature \(T_c\) in the thermodynamic limit.
 
 ### Objectives
 
@@ -39,7 +39,7 @@ g++ -O3 -std=c++17 ising.cpp -o ising -fopenmp
 
 ## Time-Dependent Schrödinger Equation in Two Dimensions
 
-In **Project 5**, we solve the two-dimensional time-dependent Schrödinger equation numerically using a Crank–Nicolson discretisation in space and time. The project focuses on wavepacket propagation, norm preservation, and quantum interference phenomena arising from slit potentials. A C++ implementation is used for time evolution, while Python is used for post-processing and visualisation.
+We solve the two-dimensional time-dependent Schrödinger equation numerically using a Crank–Nicolson discretisation in space and time. The project focuses on wavepacket propagation, norm preservation, and quantum interference phenomena arising from slit potentials. A C++ implementation is used for time evolution, while Python is used for post-processing and visualisation.
 
 ### Objectives
 
